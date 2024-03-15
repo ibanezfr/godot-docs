@@ -72,11 +72,13 @@ permanecer en la forma más formal de "usted".
 >
 
 ### Voz pasiva para traducir "we" o "you"
-En textos formales en inglés, se suele utilizar "we" o "you" en oraciones como las siguientes:
+En textos formales en inglés, se suele utilizar "we" o "you" en oraciones como 
+las siguientes:
 
 > :arrow_forward: For this purpose, **we** have implemented the following code.
 >
-> :arrow_forward: This is especially useful when **you** need to export a project.
+> :arrow_forward: This is especially useful when **you** need to export a 
+> project.
 
 La traducción literal de estos textos al castellano sería:
 
@@ -84,13 +86,19 @@ La traducción literal de estos textos al castellano sería:
 >
 > Esto es especialmente útil cuando **necesitas** exportar un proyecto.
 
-Sin embargo, el uso de "we" y "you" en casos como los anteriores suele ser una forma de voz pasiva. En este sentido, otra traducción posible al castellano (utilizando voz pasiva) sería:
+Sin embargo, el uso de "we" y "you" en casos como los anteriores suele ser una 
+forma de voz pasiva. En este sentido, otra traducción posible al castellano 
+(utilizando voz pasiva) sería:
 
-> :heavy_check_mark: Para este propósito, **se ha** implementado el siguiente código.
+> :heavy_check_mark: Para este propósito, **se ha** implementado el siguiente 
+> código.
 >
-> :heavy_check_mark: Esto es especialmente útil cuando **se necesita** exportar un proyecto.
+> :heavy_check_mark: Esto es especialmente útil cuando **se necesita** exportar
+> un proyecto.
 
-Por regla general, "we" y "you" han de traducirse utilizando voz pasiva en el contexto de esta documentación. En caso de haber objeción con algún texto en particular, se recomienda discutirlo en el chatroom mencionado arriba.
+Por regla general, "we" y "you" han de traducirse utilizando voz pasiva en el 
+contexto de esta documentación. En caso de haber objeción con algún texto en 
+particular, se recomienda discutirlo en el chatroom mencionado arriba.
 
 
 ### Principios gramaticales
