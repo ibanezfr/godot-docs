@@ -1,4 +1,4 @@
-# Las reglas de estilo para traducir "Godot" al español.
+# Reglas de estilo para traducir "Godot" al español.
 
 ## Introducción
 
