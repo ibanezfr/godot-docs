@@ -55,14 +55,12 @@ ingresarse en el glosario de DeepL para forzar una traducción específica.
 
 ### Tú o Usted
 NOTA:(Esto habría que debatirlo)
-La traducción actual de Godot utiliza "usted" en lugar de 
-"tú" en el tratamiento directo. Aunque la forma más amigable de 
-"tú" también sería una buena elección en el ámbito de los 
-videojuegos, cambiarla requeriría mucho trabajo. La discusión sobre cambiar a 
-"tú" depende principalmente de si se puede encontrar 
-una cantidad suficientemente grande de voluntarios para cambiar toda la 
-documentación. Hasta entonces, por razones prácticas, la traducción debería 
-permanecer en la forma más formal de "usted".
+La traducción actual de Godot utiliza principalmente "tú" en lugar de 
+"Usted" en el tratamiento directo. Aunque la forma más amigable de 
+"tú" también sería una buena elección en el ámbito de los videojuegos.
+Quedan partes de traducciones viejas iniciales que todavía utilizan "Usted", 
+estas tienen que figurar como marcadas para edición en weblate y se puede
+aprovechar para ajustar a medida se encuentren.
 
 > :arrow_forward: You can also use the search function in the top-left corner.
 >
