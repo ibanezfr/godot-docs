@@ -57,7 +57,7 @@ ingresarse en el glosario de DeepL para forzar una traducción específica.
 ## Reglas de estilo
 
 ### Tú o Usted
-NOTA:(Esto habría que debatirlo)
+
 La traducción actual de Godot utiliza principalmente "tú" en lugar de 
 "Usted" en el tratamiento directo. Aunque la forma más amigable de 
 "tú" también sería una buena elección en el ámbito de los videojuegos.
@@ -65,12 +65,14 @@ Quedan partes de traducciones viejas iniciales que todavía utilizan "Usted",
 estas tienen que figurar como marcadas para edición en weblate y se puede
 aprovechar para ajustar a medida se encuentren.
 
-> :arrow_forward: You can also use the search function in the top-left corner.
+> :arrow_forward: Press the "Add Child Node" button or "Other Node" to create 
+> a root node.
 >
-> :x:
+> :x: Presione el botón "Agregar nodo hijo" u "Otro nodo" para crear
+> un nodo raíz.
 >
-> :heavy_check_mark:
->
+> :heavy_check_mark: Presiona el botón "Agregar nodo hijo" u "Otro nodo" para 
+>  crear un nodo raíz.
 
 ### Voz pasiva para traducir "we" o "you"
 En textos formales en inglés, se suele utilizar "we" o "you" en oraciones como 
