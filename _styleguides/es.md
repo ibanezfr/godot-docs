@@ -21,6 +21,9 @@ el [chatroom para la traducción de Godot al español](https://chat.godotengine.
 
 ### Traducciones automáticas y flujo de trabajo
 
+Recomendación principal: evita traducir automaticamente textos que no comprendes, 
+una mala traducción solo produce confusión. 
+
 La experiencia muestra que la traducción de textos más largos, por ejemplo, de 
 las instrucciones o la referencia de clases, a menudo conduce a resultados más 
 rápidos y mejores cuando se permite que una inteligencia artificial traduzca el
@@ -383,6 +386,7 @@ aclarar la traducción de un término, ya sea en el [Chat](https://chat.godoteng
 o en alguno de estos grupos:
 - [Godot Engine Hipano](https://discord.com/invite/fp4Z7QmZGu)
 - [Godot en español](https://discord.com/invite/2BtycSPdkk)
+- [Canal español-general del servidor oficial de Discord](https://discord.gg/4JBkykG)
 
 ## Reglas del glosario
 Esta sección trata sobre el glosario. Si solo deseas traducir, puedes dejar de 
