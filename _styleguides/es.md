@@ -85,9 +85,9 @@ las siguientes:
 
 La traducción literal de estos textos al castellano sería:
 
-> Para este propósito, **hemos** implementado el siguiente código.
+> :x: Para este propósito, **hemos** implementado el siguiente código.
 >
-> Esto es especialmente útil cuando **necesitas** exportar un proyecto.
+> :x: Esto es especialmente útil cuando **necesitas** exportar un proyecto.
 
 Sin embargo, el uso de "we" y "you" en casos como los anteriores suele ser una 
 forma de voz pasiva. En este sentido, otra traducción posible al castellano 
