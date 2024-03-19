@@ -101,7 +101,7 @@ forma de voz pasiva. En este sentido, otra traducción posible al castellano
 
 Por regla general, "we" y "you" han de traducirse utilizando voz pasiva en el 
 contexto de esta documentación. La excepción principal son los textos de tutoriales,
-los cuales requieren un nivel de formalidad menor y se permite el uso de traducción literal.
+los cuales requieren un nivel de formalidad menor que permite el uso de traducción literal.
 En caso de haber objeción con algún texto en particular, se recomienda discutirlo
 en el chatroom mencionado arriba.
 
